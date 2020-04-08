@@ -4,6 +4,7 @@ Taking notes for myself about my dev setup. Shell, plugins, editor, etc.
 # Terminal
 * Mac:
   * iTerm2 (https://www.iterm2.com/)
+  * HyperTerm (https://hyper.is/)
 * Windows:
   * cmder (http://cmder.net/)
   * Make sure to use the Windows Linux Subsystem (https://docs.microsoft.com/en-us/windows/wsl/install-win10)
