@@ -30,3 +30,9 @@ Taking notes for myself about my dev setup. Shell, plugins, editor, etc.
 * Add `zsh autosuggestions` (https://github.com/zsh-users/zsh-autosuggestions)
 * Add `zsh syntax highlighting` (https://github.com/zsh-users/zsh-syntax-highlighting)
 * Add `trash` (https://github.com/sindresorhus/trash-cli)
+
+# VS Code
+
+## Addons
+
+* GitLens
