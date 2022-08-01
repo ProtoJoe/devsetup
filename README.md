@@ -3,6 +3,7 @@ Taking notes for myself about my dev setup. Shell, plugins, editor, etc.
 
 # Terminal
 * Mac:
+  * Warp (https://www.warp.dev/)
   * iTerm2 (https://www.iterm2.com/)
   * HyperTerm (https://hyper.is/)
 * Windows:
